@@ -1,4 +1,4 @@
-# SI-GuidedProject-7239-1640674816/Forecast Commuters Inflow for Airline Industry
+# SI-GuidedProject-7239-1640674816/Forecast Commuters Project
 
 Dashboard Link: https://smartinternz.com/Student/guided_project_workspace/7239
 
